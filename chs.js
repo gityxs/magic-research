@@ -85,7 +85,7 @@ var cnItems = {
     "Maybe later": "也许以后",
     "Focus your thoughts and gather mana.": "集中你的思想并收集​​法力。",
     ". You think of trying it soon!": ". 你想尽快尝试一下！",
-    "By School": "学校分类",
+    "By School": "学科分类",
     "Convert Mana into a few pebbles.": "将法力转化为一些鹅卵石。",
     "Convert Mana into some drops of water.": "将法力转化为一些水滴。",
     "Create more Stone and Water": "创造更多的鹅卵石和水",
